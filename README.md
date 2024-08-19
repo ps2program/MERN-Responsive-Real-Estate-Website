@@ -18,3 +18,8 @@ Models folder - I've written the schemas of the documents there
 Controllers folder - I've defined the endpoint and the functions for the backend routes
 Public folder - This folder holds the images 
 Index.js file - Most of the middlewares and all of the routes are defined there.
+
+
+lWkSqEe42nJezKw9 -db password
+
+mongodb+srv://ps2programming:lWkSqEe42nJezKw9@real-state-mern-db.gexv4.mongodb.net/?retryWrites=true&w=majority&appName=real-state-mern-db
